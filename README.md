@@ -2,6 +2,11 @@
 
 ### Requirements to Run:
 - Python 3
+- Python Modules by Project:
+    AES:            (numpy)
+    HashAttack:     (numpy, matplotlib, random, hashlib, binascii, bitarray)
+    Mac Attack:     (binascii, struct, hashlib)
+    DiffieHellman:  (math)
 
 ### To Run:
-`python3 main.py`
+`python3 KeyExchange.py`
